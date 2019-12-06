@@ -7,7 +7,7 @@ Lagaram Tamil Speech Recognizer (OFFLINE) - Acoustic (am) & Language Models (lm)
 ![](https://github.com/karthikindia/lagaram/blob/master/img/thambitts.png)
 
 ## Check out youtube video demo - click on the image below
-[![Watch the video](https://img.youtube.com/vi/1XFfnSqdubA/0.jpg)](https://youtu.be/1XFfnSqdubA)
+[![Watch the video](https://j.gifs.com/gZDEAj.gif)](https://youtu.be/1XFfnSqdubA)
 
 ![](https://j.gifs.com/gZDEAj.gif)
 
