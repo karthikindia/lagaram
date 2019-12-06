@@ -2,7 +2,7 @@
 # (CMU Sphinx-4 / Pocketsphinx)
 Lagaram Tamil Speech Recognizer (OFFLINE) - Acoustic (am) & Language Models (lm) for tamil language
 
-##Check out : https://www.thambi.ai
+## Check out : https://www.thambi.ai
 
 ![](https://github.com/karthikindia/lagaram/blob/master/img/thambitts.png)
 
