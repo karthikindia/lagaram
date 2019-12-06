@@ -56,9 +56,12 @@ Check and configure your microphone volume for better accuracy, then speak on mi
 # Example :
 
 வணக்கம்  
-நன்றி  
+நன்றி 
+
 தமிழ் உலகின் மூத்த மொழி 
+
 தம்பி ரோபோட் உலகின் முதல் தமிழ் ரோபோட் 
+
 
 # The words may appear weird because terminal can't display tamil correctly.
 
