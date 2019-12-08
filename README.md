@@ -1,7 +1,7 @@
-# Lagaram - Tamil Speech Recognizer
+# Lagaram - Tamil Speech Recognizer 
 # (CMU Sphinx-4 / Pocketsphinx)
 Lagaram Tamil Speech Recognizer (OFFLINE) - Acoustic (am) & Language Models (lm) for tamil language
-
+Tamil Language Speech To Text (SST) Engine for Thambi Humanoid Robot
 ## Check out : https://www.thambi.ai
 
 ![](https://github.com/karthikindia/lagaram/blob/master/img/thambitts.png)
